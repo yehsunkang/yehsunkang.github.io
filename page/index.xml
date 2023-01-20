@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My Portfolio</title>
+    <link>https://yehsunkang.github.io/page/</link>
+    <description>Recent content in Pages on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 16:41:42 -0800</lastBuildDate><atom:link href="https://yehsunkang.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yehsunkang.github.io/page/about/</link>
+      <pubDate>Thu, 19 Jan 2023 16:41:42 -0800</pubDate>
+      
+      <guid>https://yehsunkang.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

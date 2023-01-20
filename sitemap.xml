@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yehsunkang.github.io/categories/</loc>
+    <loc>https://yehsunkang.github.io/page/about/</loc>
+    <lastmod>2023-01-19T16:41:42-08:00</lastmod>
   </url><url>
     <loc>https://yehsunkang.github.io/</loc>
+    <lastmod>2023-01-19T16:41:42-08:00</lastmod>
+  </url><url>
+    <loc>https://yehsunkang.github.io/page/</loc>
+    <lastmod>2023-01-19T16:41:42-08:00</lastmod>
+  </url><url>
+    <loc>https://yehsunkang.github.io/blog/</loc>
+    <lastmod>2023-01-19T16:41:11-08:00</lastmod>
+  </url><url>
+    <loc>https://yehsunkang.github.io/blog/hello_world/</loc>
+    <lastmod>2023-01-19T16:41:11-08:00</lastmod>
+  </url><url>
+    <loc>https://yehsunkang.github.io/categories/</loc>
   </url><url>
     <loc>https://yehsunkang.github.io/tags/</loc>
   </url>
